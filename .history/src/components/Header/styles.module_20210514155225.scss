@@ -1,0 +1,22 @@
+.headerContainer{
+
+  height: 5rem;
+
+  border-bottom: 1px solid #29292E;
+}
+.headerContent{
+  display: flex;
+  margin: 0 auto;
+  padding: 0 2rem;
+  align-items: center;
+
+  nav{
+    margin-left: 5rem;
+    height: 5rem;
+
+    a{
+      display: inline-block;
+    }
+  }
+
+}
