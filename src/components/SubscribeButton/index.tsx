@@ -8,6 +8,7 @@ interface SubscribeButtonProps{
 }
 
 export const SubscribeButton = ({ priceId } : SubscribeButtonProps) => {
+  function handleSubscribe(){}
 
   return (
     <button className={styles.subscribeButton}>
