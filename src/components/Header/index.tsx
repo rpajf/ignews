@@ -1,3 +1,5 @@
+
+
 import styles from './styles.module.scss'
 import { SignInButton } from '../SignInButton/index'
 export const Header = () => {
@@ -9,7 +11,7 @@ export const Header = () => {
         <nav>
         <a className={styles.active} href="">Home</a>
         <a href="">Posts</a>
-        <a href="">Posts</a>
+        
 
 
         </nav>
